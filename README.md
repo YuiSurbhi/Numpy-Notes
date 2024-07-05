@@ -1,6 +1,6 @@
 # Numpy-Notes
 
-## About Numpy:
+## 👉 About Numpy:
 
 🧮 **NumPy:** NumPy is the fundamental package for scientific computing with Python. It provides powerful array objects, tools for integrating C/C++ and Fortran code, and useful linear algebra, Fourier transform, and random number capabilities.<br>
 
@@ -21,10 +21,10 @@
 
 ▫️ **Functionality:** Provides a wide range of mathematical functions.<br>
 
-### History :
+### 🔹 History :
 
 ▫️ Numpy was created by Travis Oliphant in 2005, while he was a graduate student at Mayo Clinic.<br>
 
-### How can we use Numpy :
+###  🔸 How can we use Numpy :
 
 ▫️ import numpy as np<br>
