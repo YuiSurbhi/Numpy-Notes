@@ -27,4 +27,4 @@
 
 ###  🔸 How can we use Numpy :
 
-▫️ import numpy as np<br>
+▫️ **import numpy as np**<br>
