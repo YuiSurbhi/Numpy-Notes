@@ -21,7 +21,7 @@
 
 ▫️ **Functionality:** Provides a wide range of mathematical functions.<br>
 
-### 🔹 History :
+### 🔸 History :
 
 ▫️ Numpy was created by Travis Oliphant in 2005, while he was a graduate student at Mayo Clinic.<br>
 
