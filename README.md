@@ -25,7 +25,7 @@
 
 ▫️ Numpy was created by Travis Oliphant in 2005, while he was a graduate student at Mayo Clinic.<br>
 
-## Installation 
+## Installation ⚙️
 
 ▪️ If <ins>Python</ins> and <ins>PIP</ins> are already installed on your system, then installing Numpy is easy.<br>
 
@@ -36,13 +36,13 @@
 ##  🔸 How can we use Numpy :
 
 ▪️ Once Numpy is installed, import it into your applications by adding the <code>import</code> keyword.<br>
-▪️ Numpy is imported under <code>np</code> alias.
-▪️ This alias is created with the help of <code>as</code> keyword while importing.
+▪️ Numpy is imported under <code>np</code> alias.<br>
+▪️ This alias is created with the help of <code>as</code> keyword while importing.<br>
 
       import numpy as np
 
 ▪️ After this, Numpy can be referred as <code>np</code> instead of <code>numpy</code>.<br>
-▪️ Now, Numpy is imported and ready to use.
+▪️ Now, Numpy is imported and ready to use.<br>
 
 ### Example 
 
