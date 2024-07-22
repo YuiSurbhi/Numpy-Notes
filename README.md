@@ -1,8 +1,10 @@
 # Numpy-Notes
 
-## 👉 About Numpy:
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
+</h1><br>
 
-🧮 **NumPy:** NumPy is the fundamental package for scientific computing with Python. It provides powerful array objects, tools for integrating C/C++ and Fortran code, and useful linear algebra, Fourier transform, and random number capabilities.<br>
+**NumPy:** NumPy is the fundamental package for scientific computing with Python. It provides powerful array objects, tools for integrating C/C++ and Fortran code, and useful linear algebra, Fourier transform, and random number capabilities.<br>
 
 ▫️ Numpy stands for **(Numerical Python)**.<br>
 
@@ -15,15 +17,15 @@
 
 ▫️ It also has functions for working in the domain of linear algebra, matrices, etc. <br>
 
-## 🔸 Why Use NumPy? :
+## Why Use NumPy? 🧮:
 
 ▫️ **Speed:** Optimized for performance, making it faster than standard Python lists.<br>
 
 ▫️ **Functionality:** Provides a wide range of mathematical functions.<br>
 
-## 🔸 History :
+## History 📜:
 
-▫️ Numpy was created by Travis Oliphant in 2005, while he was a graduate student at Mayo Clinic.<br>
+▫️ Numpy was created by <ins>Travis Oliphant</ins> in 2005, while he was a graduate student at Mayo Clinic.<br>
 
 ## Installation ⚙️
 
@@ -33,7 +35,7 @@
 
       pip install numpy
 
-##  🔸 How can we use Numpy :
+## How can we use Numpy 📘:
 
 ▪️ Once Numpy is installed, import it into your applications by adding the <code>import</code> keyword.<br>
 ▪️ Numpy is imported under <code>np</code> alias.<br>
